@@ -4,8 +4,10 @@ A prescription lens adapter for the Pimax 8KX
 
 ![STL Image](images/Pimax_8kx_lens_adapter.png)
 
+![Example Use](images/pimax_lens_adapter_example.jpg)
 
-This is a prescription lens adapter made for the Pimax 8KX.  This may also fit the 8K and 5K+ but YMMV
+
+This is a prescription lens adapter made for the Pimax 8KX.  This may also fit the 8K and 5K+ but YMMV.
 
 
 This adapter is sized for these inexpensive lenses from Zenni Optical:
@@ -33,6 +35,9 @@ The outer ring has two small tabs which can seat just under the edge of the fabr
 
 
 I chose to make this design to minize issues with the face gasket fit from the floating frame design, and to also add rigidity to the outer insert ring which had a tendency to pop out in my other attempts. The lenses from the Zenni glasses should pop right in and are held strongly, and the lens assembly holds securely against the Pimax lenses.
+
+
+While it seems like these may restrict the natural field of view of the Pimax, the design is specifically chosen so that the lens wings fall behind your view of the rim when worn close to your eyes, so that the FOV reduction is quite small.
 
 
 Note that you will be placing these adapters directly on top of your Pimax HMD's lenses when using these, you assume all responsibility for any scratches or damages that occur from this.  I recommend sticking to a soft plastic like PLA to reduce the chances of scratching the Pimax lens.
