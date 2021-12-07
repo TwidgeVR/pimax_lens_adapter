@@ -2,7 +2,7 @@
 A prescription lens adapter for the Pimax 8KX
 
 
-![STL Image](images/Pimax 8kx lens adapter.PNG)
+![STL Image](images/Pimax_8kx_lens_adapter.png)
 
 
 This is a prescription lens adapter made for the Pimax 8KX.  This may also fit the 8K and 5K+ but YMMV
