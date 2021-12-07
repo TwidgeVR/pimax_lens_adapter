@@ -2,7 +2,7 @@
 A prescription lens adapter for the Pimax 8KX
 
 
-![STL Image](images/Pimax 8kx lens adapter.PNG)
+![STL Image](images/Pimax_8kx_lens_adapter.png)
 
 
 This is a prescription lens adapter made for the Pimax 8KX.  This may also fit the 8K and 5K+ but YMMV
@@ -36,3 +36,6 @@ I chose to make this design to minize issues with the face gasket fit from the f
 
 
 Note that you will be placing these adapters directly on top of your Pimax HMD's lenses when using these, you assume all responsibility for any scratches or damages that occur from this.  I recommend sticking to a soft plastic like PLA to reduce the chances of scratching the Pimax lens.
+
+
+NOTE:  I used Tinkercad for this model (I know, I know..), so there are some rough spots and it could easily use optimization.  Please feel free to remix this, and I would love pull requests that improve the STL while keeping this functionally identical.
